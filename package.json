@@ -1,0 +1,16 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "API do SENAI Bank",
+  "main": "src/api.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
